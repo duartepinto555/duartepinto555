@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 ### Python
 -   [Turtle Game](https://github.com/duartepinto555/turtle_game)
 -   [15 Puzzle](https://github.com/duartepinto555/15puzzle)
+-   [Four Colour Game](https://github.com/duartepinto555/Four_ColorGame)
+-   [Decision Trees](https://github.com/duartepinto555/decision_trees)
 
 
 <!-- ### C
