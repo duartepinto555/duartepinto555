@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ## Projects 🗃
 
 
-### Haskell
--   [Computer Labs 1 (BlockDude)](https://github.com/NopeGuy/BlockDudeHaskell)
+### Python
+-   
 
 
-### C
+<!-- ### C
 -   [Computer Labs 2 (Classic game "Rastros")](https://github.com/NopeGuy/LI2-1920)
 -   [Computer Labs 3 (Parser and data management)](https://github.com/NopeGuy/LI3-2223)
 -   [Operating Systems Project](https://github.com/NopeGuy/SO2223)
@@ -46,24 +46,10 @@ Here are some ideas to get you started:
 -   [Exercises P.O.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO)
 -   [Exercises S.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO)
 -   [Exercises I.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO)
--   [Exercises B.D.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD)
+-   [Exercises B.D.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD) -->
 
 
 ## Connect with me 📞
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-pinto-8059521a2/)
-
-<br />
-
-
----
-
-</details>
-
-
-</details>
-
-[website]: https://iamawesome.com/
-[linkedin]: https://www.linkedin.com/in/duarte-pinto-8059521a2/
-```
