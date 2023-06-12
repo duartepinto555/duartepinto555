@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **duartepinto555/duartepinto555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,20 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-```r
-### Hi, I'm Luís - aka [NopeGuy][website] 👋
+### Hi, I'm Duarte 👋
 
 
 
-## Small stuff about me:
-- 🎓 Hoping to finish graduation soon.
+## Interesting facts about me:
+- 🎓 Graduated in Mathemtics with a Minor in Computer Science, which is where my interest for programming began
 - 🔭 Always looking out for new ways to improve myself and how to code efficiently.
-- 🌱 I’m currently learning C/Java/Python.
-
-
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-pied-one.vercel.app/api/spotify)](https://open.spotify.com/user/11130361747)
 
 
 ## Projects 🗃
@@ -61,8 +52,7 @@ Here are some ideas to get you started:
 ## Connect with me 📞
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GunaoDeJardim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-pinto-8059521a2/)
 
 <br />
 
@@ -75,6 +65,5 @@ Here are some ideas to get you started:
 </details>
 
 [website]: https://iamawesome.com/
-[twitter]: https://twitter.com/GunaoDeJardim
-[linkedin]: https://www.linkedin.com/in/lu%C3%ADs-ferreira-450413214/
+[linkedin]: https://www.linkedin.com/in/duarte-pinto-8059521a2/
 ```
