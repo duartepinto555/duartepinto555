@@ -31,25 +31,8 @@ Here are some ideas to get you started:
 -   [Four Colour Game](https://github.com/duartepinto555/Four_ColorGame)
 -   [Decision Trees](https://github.com/duartepinto555/decision_trees)
 
-
-<!-- ### C
--   [Computer Labs 2 (Classic game "Rastros")](https://github.com/NopeGuy/LI2-1920)
--   [Computer Labs 3 (Parser and data management)](https://github.com/NopeGuy/LI3-2223)
--   [Operating Systems Project](https://github.com/NopeGuy/SO2223)
-
-
 ### Java
--   [Best Text Based Football Manager Ever™](https://github.com/NopeGuy/project-poo-2021)
--   [Vintade knockoff store (Vintage)](https://github.com/NopeGuy/POO-2223)
-
-
-## Exercises 📄
--   [Exercises and Exams P.F.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PF)
--   [Exercises P.I.](https://github.com/NopeGuy/University-WorkSheets/tree/main/1%C2%BA%20Ano/PI)
--   [Exercises P.O.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/POO)
--   [Exercises S.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/SO)
--   [Exercises I.O.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/IO)
--   [Exercises B.D.](https://github.com/NopeGuy/University-WorkSheets/tree/main/2%C2%BA%20Ano/BD) -->
+-   [Competitive Programming](https://github.com/duartepinto555/challenges)
 
 
 ## Connect with me 📞
