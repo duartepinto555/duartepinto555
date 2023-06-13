@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 -   [Decision Trees](https://github.com/duartepinto555/decision_trees)
 -   [Cryptography Challenge](https://github.com/duartepinto555/challenge)
 -   [Chicago Crimes Analysis](https://github.com/duartepinto555/DM2_chicago_crimes)
+-   [AI - Dog Identifier](https://github.com/duartepinto555/dogs_identifier)
+-   [AI - Text-to-Image server](https://github.com/duartepinto555/text2image_server)
+-   [ML - Predict Fires](https://github.com/duartepinto555/forest_fires)
 
 ### Java
 -   [Competitive Programming](https://github.com/duartepinto555/challenges)
