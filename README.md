@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 -   [15 Puzzle](https://github.com/duartepinto555/15puzzle)
 -   [Four Colour Game](https://github.com/duartepinto555/Four_ColorGame)
 -   [Decision Trees](https://github.com/duartepinto555/decision_trees)
+-   [Cryptography Challenge](https://github.com/duartepinto555/challenge)
+-   [Chicago Crimes Analysis](https://github.com/duartepinto555/DM2_chicago_crimes)
 
 ### Java
 -   [Competitive Programming](https://github.com/duartepinto555/challenges)
